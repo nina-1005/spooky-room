@@ -1,30 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Change</title>
-    <style>
-        img {
-            width: 100%;
-            height: auto;
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
+Welcome to the Boba Spooky Manor! 🎃👻
 
-<img id="image" src="https://cloud-dso8iy25z-hack-club-bot.vercel.app/07777777777777.png" alt="Image" onclick="changeImage()">
-<a href="https://hack.club/boba-manor" target="_blank">Open the door</a>
+Overview
+Welcome to the eerie world of the Boba Spooky Manor! This website immerses you in a haunted room experience where a simple click can transport you to a whole new realm. Are you brave enough to explore?
 
-<script>
-    function changeImage() {
-        const image = document.getElementById('image');
-        image.src = image.src === 'https://cloud-dso8iy25z-hack-club-bot.vercel.app/07777777777777.png' 
-            ? 'https://cloud-oaah7vz1l-hack-club-bot.vercel.app/0capture999999.png'
-            : 'https://cloud-dso8iy25z-hack-club-bot.vercel.app/07777777777777.png';
-    }
-</script>
+How Does It Work? 🤔
+It’s simple! You’ll start in a normal, peaceful room. All you have to do is click the button that says "Click Here", and you’ll be transported to a spooky, haunted room! 🌌👻
 
-</body>
-</html>
+Features
+Interactive Experience: Engage with the haunted environment by clicking to explore!
+Stunning Visuals: Enjoy captivating images that enhance the spooky atmosphere.
+Fun for Everyone: Perfect for those who love a little thrill and adventure!
+Getting Started 🚀
+Clone the repository to your local machine.
+Open the index.html file in your web browser.
+Click the image to embark on your haunted adventure!
+Contributing
+Feel free to fork the repository and submit a pull request. We welcome contributions to enhance the spooky experience!
